@@ -1,0 +1,32 @@
+[{
+    "index":"1",
+    "input":"checkbox",
+    "qtype1":"MCQ"
+
+},
+{
+    "index":"2",
+    "input":"checkbox",
+    "qtype1":"SCQ"
+},
+{
+    "index":"3",
+    "input":"checkbox",
+    "qtype1":"TRUE/FALSE"
+     
+},
+{
+    "index":"4",
+    "input":"checkbox",
+    "qtype1":"FILL IN BLANKS"
+     
+},
+{
+    "index":"5",
+    "input":"checkbox",
+    "qtype1":"SUBJECTIVE"
+     
+}
+
+
+]

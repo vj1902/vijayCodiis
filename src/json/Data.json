@@ -1,0 +1,52 @@
+[{
+    "index":"0001",
+    "questionbank":"Demotest",
+    "description":"Demotest is the 1st test for students",
+    "created":"12/08/2021",
+    "status":"active",
+    "addquestion":"excel",
+    "subject":"Compiler Design",
+    "Topic":"C Program",
+    "SubTopic":"Inheritance",
+    "faculty":"Dhinesh"
+
+},
+{
+    "index":"0002",
+    "questionbank":"Demotest2",
+    "description":"Demotest is the 2st test for students",
+    "created":"13/08/2021",
+    "status":"active",
+    "addquestion":"excel",
+    "subject":"Computer Graphics",
+    "Topic":" Transformations",
+    "SubTopic":" 2D Transformations",
+    "faculty":"Ranjith"
+},
+{
+    "index":"0003",
+    "questionbank":"Demotest3",
+    "description":"Demotest is the 3st test for students",
+    "created":"14/08/2021",
+    "status":"active",
+    "addquestion":"excel",
+    "subject":"Computer Architect",
+    "Topic":" Transformations",
+    "SubTopic":" 2D Transformations",
+    "faculty":"Gopinath"
+},
+{
+    "index":"0004",
+    "questionbank":"Demotest4",
+    "description":"Demotest is the 4st test for students",
+    "created":"15/08/2021",
+    "status":"active",
+    "addquestion":"excel",
+    "subject":"Computer Architect",
+    "Topic":" Transformations",
+    "SubTopic":" 2D Transformations",
+    "faculty":"Shankar"
+}
+
+
+]
